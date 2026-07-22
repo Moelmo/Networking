@@ -15,7 +15,7 @@ Setiap angka disebut octet
 
  total : 32 bit
 ```
-Pembagian IPv4 terdiri dari ==Network ID== ==Host ID== Misal:
+Pembagian IPv4 terdiri dari Network ID Host ID Misal:
 ```
 192.168.1.20/24
 Network = 192.168.1
