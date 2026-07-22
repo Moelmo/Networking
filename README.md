@@ -1,3 +1,4 @@
+<!--
 # 🚀 MikroTik Network Engineering Learning Archive
 
 > Dokumentasi perjalanan belajar, latihan, dan lab praktik untuk mempersiapkan **MikroTik Olympiad**, **MTCNA**, serta memperkuat fundamental **Computer Networking**.
@@ -187,3 +188,7 @@ Semoga catatan ini juga dapat membantu pelajar, mahasiswa, maupun siapa pun yang
 **Taufiq Iman Putra**
 
 *"Learning networking is not about memorizing commands, but understanding how data travels through the network."*
+
+-->
+
+Basic and Fundamental Networking
