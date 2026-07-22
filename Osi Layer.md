@@ -261,6 +261,9 @@ Kemungkinan:
 ### Jangan langsung menebak. Gunakan urutan OSI dari bawah ke atas.
 
 Layer 1: Apakah kabel, NIC, dan link LED normal?
+
 Layer 2: Apakah VLAN, switch, dan ARP benar?
+
 Layer 3: Apakah IP, subnet, gateway, dan routing sudah benar?
+
 Layer 4-7: Jika ping sudah berhasil tetapi layanan tertentu gagal, baru periksa port, firewall, DNS, atau aplikasi.
